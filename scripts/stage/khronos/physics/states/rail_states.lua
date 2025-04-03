@@ -1,4 +1,4 @@
--- @BRIEF: State declarations for Rail Grind states.
+-- @BRIEF: Implementation for Rail Grind states.
 
 --$$ REGISTER BLOCK $$--
 RegisterState(PlayerList.sonic, "Grinding", "Grind")
